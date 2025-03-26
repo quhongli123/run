@@ -1,13 +1,4 @@
-'''
-Author: 曲洪利 quhongli999@163.com
-Date: 2025-03-21 10:55:48
-LastEditors: 曲洪利 quhongli999@163.com
-LastEditTime: 2025-03-25 14:33:50
-FilePath: /py/convert_excel_to_json.py
-Description: 
 
-Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
-'''
 import pandas as pd
 import json
 

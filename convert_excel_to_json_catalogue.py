@@ -1,13 +1,4 @@
-'''
-Author: 曲洪利 quhongli999@163.com
-Date: 2025-03-21 10:55:48
-LastEditors: 曲洪利 quhongli999@163.com
-LastEditTime: 2025-03-26 15:02:38
-FilePath: /py/convert_excel_to_json_catalogue.py
-Description: 
 
-Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
-'''
 import pandas as pd
 import json
 import os
@@ -164,7 +155,7 @@ def save_json(data, output_file):
 
 if __name__ == "__main__":
     # 转写路径
-    excel_file = "./标注结果-9787574804616新编基础训练·化学 人教版 九年级 下册化学2024.pdf-NEW-20250325111357.xlsx"
+    excel_file = ""
     
     # 映射名
     field_mapping = {
